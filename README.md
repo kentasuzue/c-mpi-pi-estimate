@@ -1,0 +1,2 @@
+# c-mpi-pi-estimate
+MPI (Message-Passing Interface) program for a distributed memory system that demonstrates the allocation of work to multiple processes and combining the work from multiple processes.  The program estimates π with a Monte Carlo method. Darts are tossed randomly at a square dartboard with a size of 2 feet per side.  The ratio of darts that hit inside a 1 foot radius circle in the square dartboard is about π/4. 
